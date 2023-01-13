@@ -1,6 +1,6 @@
 const heading = document.querySelector(".heading")
 
-heading.addEventListener("mousehover",(e)=>{
+heading.addEventListener("mouseover",(e)=>{
 
     heading.style.color ="red"
     
